@@ -31,10 +31,15 @@ their tickets.
 ###COMMUICATION DIAGRAM:
 ![image](https://github.com/Richard01072002/Lab-3-Railway-Reservation/assets/141472248/608a15e9-2dbb-424b-95ce-746ab637cbd6)
 
+
 ###SEQUENCE DIAGRAM:
+
 ![image](https://github.com/Richard01072002/Lab-3-Railway-Reservation/assets/141472248/320b101b-342a-4507-beff-e8e38962f96f)
 
+
+
 ###STATE DIAGRAM:
+
 ![image](https://github.com/Richard01072002/Lab-3-Railway-Reservation/assets/141472248/0ac033ba-8368-4ada-85b4-1280d218efd8)
 
 
